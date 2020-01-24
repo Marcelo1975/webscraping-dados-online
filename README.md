@@ -1,10 +1,10 @@
-# Capturando dados de site de anúncios
+#Capturando dados de site de anúncios
 
-> Exemplo de captura de dados online, com cURL PHP
+>Exemplo de captura de dados online, com cURL PHP
 
-* Este exemplo é no site da zap imoveis *
+*Este exemplo é no site da zap imoveis*
 
-** Respeitando todas as diretrizes e direitos autorais **
+**Respeitando todas as diretrizes e direitos autorais**
 
 `Mais detalhes no link abaixo`
 
