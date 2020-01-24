@@ -20,7 +20,7 @@ curl_close($curl);
 if($err) {
 	echo "curl error: ".$err;
 } else {
-	file_put_contents("zapimoveis.php", $res);
+	file_put_contents("index.html", $res);
 	echo $res;
 }
 
